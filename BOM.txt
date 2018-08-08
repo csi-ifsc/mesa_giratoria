@@ -1,0 +1,26 @@
+Motor:
+- Código: SM1.8-D19-CS
+- Torque Estático: 19 Kgf.cm
+- Diâmetro do eixo : 6.35mm
+- Flange : Nema 23
+
+Arduino Uno
+
+Driver:
+-TB6600
+-Corrente: até 4A
+-Tensão: 9~40V
+
+Fonte:
+- Tensão: 24V
+- Corrente: 5A
+
+Regulador de tensão:
+- Código: LM2596
+
+Potenciometro 10K
+
+Switch 3 posições
+
+Rolamento:
+- Código: 51207

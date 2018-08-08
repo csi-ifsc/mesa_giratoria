@@ -1,0 +1,15 @@
+﻿Build started 20/12/2017 16:15:40.
+     1>Project "C:\Users\alanv\Documents\Aula\Bolsa II\Mesa Giratoria\IHM_mesa\IHM_mesa\IHM_mesa.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\alanv\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\alanv\Documents\Aula\Bolsa II\Mesa Giratoria\IHM_mesa\Debug\IHM_mesa.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\IHM_mesa.JanelaPrincipal.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\alanv\Documents\Aula\Bolsa II\Mesa Giratoria\IHM_mesa\Debug\IHM_mesa.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\JanelaPrincipal.obj
+         Debug\main.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         IHM_mesa.vcxproj -> C:\Users\alanv\Documents\Aula\Bolsa II\Mesa Giratoria\IHM_mesa\Debug\IHM_mesa.exe
+     1>Done Building Project "C:\Users\alanv\Documents\Aula\Bolsa II\Mesa Giratoria\IHM_mesa\IHM_mesa\IHM_mesa.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.08

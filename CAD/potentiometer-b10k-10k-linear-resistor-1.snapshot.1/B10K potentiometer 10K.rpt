@@ -1,0 +1,62 @@
+*****************************************************************
+      SolidWorks Corporation - Relatório de status do Processador de IGES
+*****************************************************************
+=================================================================
+Informações gerais
+=================================================================
+Enviando ID de produto do sistema : Solid Edge
+Recebendo ID de produto do sistema : Unknown
+Nome do arquivo                    : B10K potentiometer 10K.igs
+Enviando sistema               :  By UGS Corp.
+Versão do pré-processador         : XPlus GENERIC/IGES 3.0
+Data de criação do arquivo           : 20160414.142725
+Data de criação do modelo           : 20160414.142725
+Unidades                        : MM
+Escala de espaço do modelo            : 1
+Autor                       : Author
+Organização                 : Title
+
+
+=================================================================
+Informações de processamento da entidade
+=================================================================
+
+
+=================================================================
+Análise de precisão do arquivo IGES:
+=================================================================
+  Número mais prevalente de dígitos significativos:              14
+  Número mais alto de dígitos significativos:                     14
+  Número médio de dígitos significativos:                7.38009
+  Distância máxima da origem:                          35.0061
+  Distância mínima da origem:                              0.5
+  Número eficaz de dígitos significativos:              13.9876
+
+
+=================================================================
+Resumo de entidade
+=================================================================
+-----------------------------------------------------------------
+Nome do tipo                                         Contagem convertida
+---- ----                                         ----- ---------
+102  Composite curve                                326       326
+126  Rational B-spline curve                       1830      1830
+128  Rational B-spline surface                      159       159
+142  Curve on a parametric surface                  163       163
+144  Trimmed parametric surface                     159       159
+314  Color definition                               159       159
+_________________________________________________________________
+
+
+=================================================================
+Resumo de resultados
+=================================================================
+Tipo de recurso do SolidWorks                Contagem
+-----------------------                -----
+Recursos sólidos                       0
+Recursos de superfície                     3
+Recursos de curva/esboço                0
+--------------------------------------------
+Hora inicial: sexta-feira, setembro 29, 2017 18:28:11
+Hora de término: sexta-feira, setembro 29, 2017 18:28:13
+Tempo de processamento: 0 days, 00 hours, 00 mins, 02 secs
